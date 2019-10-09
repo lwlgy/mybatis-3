@@ -1,17 +1,17 @@
-/*.iml
-/*.ipr
-/*.iws
-/.classpath
-/.factorypath
+/mybatis-3/*.iml
+/mybatis-3/*.ipr
+/mybatis-3/*.iws
+/mybatis-3/.classpath
+/mybatis-3/.factorypath
 /.idea
-/.project
-/.settings
-/nb*
-/release.properties
-/target
+/mybatis-3/.project
+/mybatis-3/.settings
+/mybatis-3/nb*
+/mybatis-3/release.properties
+/mybatis-3/target
 
 # These are needed if running in IDE without properties set
-/ibderby
-derby.log
-/bin/
-.mvn/wrapper/maven-wrapper.jar
+/mybatis-3/ibderby
+/mybatis-3/derby.log
+/mybatis-3/bin/
+/mybatis-3/.mvn/wrapper/maven-wrapper.jar
